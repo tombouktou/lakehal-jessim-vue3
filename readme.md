@@ -1,5 +1,10 @@
-# Vue3 - ECF - DWWM - Décembre 2024
- 
+# Vue3 - ECF - DWWM - Décembre 2024 - pour utiliser ce projet , cloner le repo puis dans le dossier cree par le clone effectuer ceci :
+
+```sh
+npm i
+npm run dev 
+```
+le projet est ainsi fonctionnel et utilisable a souhait
 
 Objectif: partir d'une maquette statique et faire un projet vue3 qui sollicite une api externe
 Merci d'utiliser les notions vues en classe 
